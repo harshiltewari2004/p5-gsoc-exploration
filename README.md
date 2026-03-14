@@ -12,3 +12,4 @@ Contents include:
 • reflections on open source and creative coding
 • proposal preparation notes
 • use of strands
+• use of strands
