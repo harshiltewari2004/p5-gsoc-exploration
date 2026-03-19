@@ -12,4 +12,13 @@ Contents include:
 • reflections on open source and creative coding
 • proposal preparation notes
 • use of strands
-• use of strands
+
+## Research Focus
+
+This repository also explores usability challenges in p5.js and p5.strands, particularly around:
+
+- shader debugging
+- visual ambiguity
+- beginner experience
+
+The goal is to inform a proposal for improving debugging tools in the p5.js Web Editor.
