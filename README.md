@@ -142,6 +142,8 @@ See EXPLORATION.md for technical observations, design decisions, and lessons fro
 
 ⸻
 
-Demo
+## Demo
 
-A  screenshot of working prototype.
+![Eyedropper Demo](./assets/eyedropper-demo.gif)
+
+[Watch the full video](./assets/eyedropper-demo.mov)
