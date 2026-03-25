@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>p5.js Eyedropper Debugger Prototype</title>
+  <link rel="stylesheet" href="../src/styles.css" />
+</head>
+<body>
+  <div class="topbar">
+    <div class="title">p5.js Eyedropper Debugger Prototype</div>
+    <div class="controls">
+      <span><strong>E</strong> Toggle Eyedropper</span>
+      <span><strong>1</strong> Gradient Sketch</span>
+      <span><strong>2</strong> Animated Sketch</span>
+    </div>
+  </div>
+
+  <div id="app">
+    <div id="canvas-container"></div>
+    <div id="tooltip" class="tooltip hidden"></div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.min.js"></script>
+  <script type="module" src="../src/main.js"></script>
+</body>
+</html>
